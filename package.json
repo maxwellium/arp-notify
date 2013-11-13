@@ -1,0 +1,8 @@
+{
+  "author": "maxwellium",
+  "name": "ArpNotify",
+  "version": "0.0.1",
+  "dependencies": {
+    "q": "latest"
+  }
+}
